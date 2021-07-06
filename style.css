@@ -1,0 +1,33 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.colored-word{
+    color: tomato;
+}
+h1{
+    font-size: 60px;
+    font-weight: 300;
+}
+h6{
+    font-weight: 300;
+}
+a{
+    text-decoration: none;
+    color: white;
+    font-size: 12px;
+    border: 1px solid salmon;
+    border-radius: 20px;
+    padding: 15px 25px;
+    background-image: linear-gradient(salmon, tomato);
+}
+.top-section{
+    display: flex;
+    padding-left: 20%;
+    
+}
+.flex-container{
+    width: 40%;
+}
+.text-part{
+    padding-top: 100px;
+}
