@@ -50,3 +50,30 @@ a{
     font-weight: 100;
     padding-bottom: 20px;
 }
+#my-recepies{
+    text-align: center;
+    font-weight: 200;
+}
+
+.third-container{
+    display: flex;
+}
+.three-images{
+    padding: 25px;
+    width: 30%;
+    border:2px;
+    border-radius: 25px;
+    margin-left: 50px;
+    box-shadow: 10px 10px 40px grey;
+}
+.three-images img{
+    width: 100%;
+}
+.footer{
+    background-color: black;
+    text-align: center;
+    color: grey;
+    height: 120px;
+    margin-top: 20px;
+    padding-top: 20px;
+}
