@@ -31,3 +31,22 @@ a{
 .text-part{
     padding-top: 100px;
 }
+.middle-section{
+    background-image: url(images/second-image.png);
+    height: 700px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.about{
+    padding-left: 60%;
+    padding-top: 7%;
+}
+.about h3{
+    font-size: 50px;
+    font-weight: 200;
+}
+.about h4{
+    font-weight: 100;
+    padding-bottom: 20px;
+}
